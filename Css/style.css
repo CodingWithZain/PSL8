@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#bannercontainer {
+    background: url(/Images/PSLbanner.jpg) no-repeat center;
+    background-size: cover;
+    padding: 100px 40px;
+    text-align: center;
+}
